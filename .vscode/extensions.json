@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "deque-systems.vscode-axe-linter",
+    "dbaeumer.vscode-eslint",
+    "stylelint.vscode-stylelint",
+    "octref.vetur"
+  ]
+}
