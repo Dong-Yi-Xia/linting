@@ -1,0 +1,20 @@
+{
+    "extends": ["airbnb", "prettier", "plugin:node/recommended"],
+    "plugins": ["prettier"],
+    "rules": {
+      //change eslint rule name to that be a warm
+      "no-unused-vars": "warn",
+      "no-console": "off",
+
+      // Add the prettier rules
+      "prettier/prettier": "error",
+
+      // function require name
+      "func-names": "off",
+
+      // callback function using arrows
+      "prefer-arrow-callback": "off"
+
+    }
+}
+
